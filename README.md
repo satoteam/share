@@ -16,3 +16,17 @@
 -  [读书]()
 -  [Other]()
 
+请各位fork后能及时更新，一遍获得更新。
+
+#添加项目A的远程仓库地址到upstream
+git remote add upstream https://github.com/satoteam/share.git
+
+
+#把项目A的更新来到本地的upstream里
+git fetch upstream 
+
+#切换到你自己想要merge的分支，这里我用举例：master
+git checkout master
+
+#merge项目A的更新到你的branch
+git merge upstream/master
