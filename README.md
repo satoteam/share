@@ -16,17 +16,16 @@
 -  [读书]()
 -  [Other]()
 
-请各位fork后能及时更新，一遍获得更新。
+请各位fork后能及时更新，以便获得更新如果不会git,还有一种可视化操作可以参照[本篇](http://www.cnblogs.com/rubylouvre/archive/2013/01/24/2874694.html)。
 
-#添加项目A的远程仓库地址到upstream
-git remote add upstream https://github.com/satoteam/share.git
+- 添加项目A的远程仓库地址到upstream    
+```git remote add upstream https://github.com/satoteam/share.git```
 
+- 把项目A的更新来到本地的upstream里    
+```git fetch upstream ```
 
-#把项目A的更新来到本地的upstream里
-git fetch upstream 
+- 切换到你自己想要merge的分支，这里我用举例：master  
+```git checkout master```
 
-#切换到你自己想要merge的分支，这里我用举例：master
-git checkout master
-
-#merge项目A的更新到你的branch
-git merge upstream/master
+- merge项目A的更新到你的branch  
+```git merge upstream/master```
