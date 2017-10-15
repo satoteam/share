@@ -1,6 +1,7 @@
 # SATO TEAM 分享会
 
 ### 目录  
+-  [活动安排](https://github.com/satoteam/share/tree)
 -  [通识教育](https://github.com/satoteam/share/tree/master/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2)
 -  [C:C++](https://github.com/satoteam/share/tree/master/C:C%2B%2B) 
 -  [interview 笔试面试]()
