@@ -1,9 +1,9 @@
 # SATO TEAM 分享会
 
 ### 目录  
--  [活动安排](https://github.com/satoteam/share/tree/master/活动安排)
--  [通识教育](https://github.com/satoteam/share/tree/master/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2)
--  [C:C++](https://github.com/satoteam/share/tree/master/C:C%2B%2B) 
+-  [活动安排（可读）](https://github.com/satoteam/share/tree/master/活动安排)
+-  [通识教育（可读）](https://github.com/satoteam/share/tree/master/%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2)
+-  [C:C++（可读）](https://github.com/satoteam/share/tree/master/C:C%2B%2B)
 -  [interview 笔试面试]()
 -  [DataBase 数据库]()
 -  [Java]()
@@ -11,7 +11,7 @@
 -  [架构]()
 -  [产品经理]()
 -  [前端]()
--  [设计]()
+-  [设计（可读）](https://github.com/Yangxulei/share/tree/master/%E8%AE%BE%E8%AE%A1)
 -  [测试]()
 -  [运维]()
 -  [读书]()
