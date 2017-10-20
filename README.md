@@ -10,7 +10,7 @@
 -  [Python]()
 -  [架构]()
 -  [产品经理]()
--  [前端](可读)(https://github.com/satoteam/share/tree/master/%E5%89%8D%E7%AB%AF)
+-  [前端(可读)](https://github.com/satoteam/share/tree/master/%E5%89%8D%E7%AB%AF)
 -  [设计（可读）](https://github.com/Yangxulei/share/tree/master/%E8%AE%BE%E8%AE%A1)
 -  [测试]()
 -  [运维]()
