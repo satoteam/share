@@ -122,8 +122,6 @@
 ## 找到工作后也要持续学习
 
 我已经在 Exec 工作一年了，也从这份工作中学到许多。我会去向比我资深的设计师学习、去找其他设计课程，像TutsPlus 都是不错的在线课程，甚至翻遍书店中设计类的书籍。还有许多东西是我可以学习以及改善的。记得要不断磨练你的技能，并且不停学习。
-
+[阅读原文](https://medium.com/@karenxcheng/how-to-get-a-job-as-a-designer-without-going-to-design-school-bad8cdb67068)
 扩展：
 [知乎：如何自学设计](https://www.zhihu.com/question/20857524)
-
-
