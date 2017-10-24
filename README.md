@@ -8,7 +8,7 @@
 -  [Interview 笔试面试]()
 -  [DataBase 数据库]()
 -  [Java]()
--  [Python]()
+-  [Python](可读)
 -  [架构]()
 -  [产品经理]()
 -  [前端(可读)](https://github.com/satoteam/share/tree/master/%E5%89%8D%E7%AB%AF)
