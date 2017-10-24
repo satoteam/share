@@ -94,7 +94,8 @@ Linus在1991年创建了开源的Linux，从此，Linux系统不断发展，已�
 - [使用git和github进行协同开发流程](http://livoras.com/post/28)
 
 - [Github Help](https://help.github.com/)
-- [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
+- [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)  
 
+- [如何给GitHub项目添加徽章和 wiki的设置](https://github.com/EyreFree/EFArticles/tree/master/Articles/GitHub)
 
 
