@@ -18,15 +18,13 @@
 
 ## 下周目标：
 
-- 了解git。[文档](https://git-scm.com/book/zh/v1/)（当然这里不建议使用git代码进行操作，会很麻烦）
-- Linux的实验还是继续留下来[Linux 基础入门（新版）实验1到4](https://www.shiyanlou.com/courses/1)，慢慢去看。
-- 没完成继续完成实验楼Web前端工程师下[HTML基础入门实验1到5](https://www.shiyanlou.com/courses/19)。
-- 完成的继续[CSS速成教程](https://www.shiyanlou.com/courses/53)，可以每天一个，根据自己时间安排。
 
+- 上周未完成的继续[CSS速成教程](https://www.shiyanlou.com/courses/53)，可以每天一个，根据自己时间安排。
+
+- 完成的开始进行[JavaScript学习](https://www.shiyanlou.com/courses/21) 这个将会持续三周。 JavaScript是一种面向对象语言，但和Java，Python面向对象有所不同。 JavaScript在你以后的大部分方向都很重要，一定要掌握。 JavaScript学会后就可以进行案例学习和项目。
+
+- 了解git。[文档](https://git-scm.com/book/zh/v1/)（当然这里建议你会自己上传和更新就行，不要求对高阶比如冲突和团地合作做了解） 也就几个命令，在通识教育里面写的很详细
 
 - 尝试在GitHub创建一个项目并在本地上修改，完成GitHub同步，体验连接。你可以把平时练习的比如C语言等代码上传。具体用文本编辑器还是专业工具都行，遇到困难优先自己解决再提问。
 
-
 - 关于下周分享，可以做出文档上去给大家讲，也可以一边写一边讲。
-
-之后会把大家拉进satoteam大群，大家可以跟先前的学长进行交流沟通。
