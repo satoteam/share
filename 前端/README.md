@@ -33,6 +33,10 @@
 
 前期就把H5，CSS3好好学做个静态的，后面学习JavaScript。再后面学习各种框架做东西，技术继续精进学习性能，压缩，前端自动化等等知识
 
+## 上面是大概说了下，详细可以看下面👇这个
+
+[《我的职业是前端工程师》](http://ued.party/)
+
 ## 一些开源的总结资料
 - [shiyanlou](www.shiyanlou.com)
 - [MDN](https://developer.mozilla.org/zh-CN/)
