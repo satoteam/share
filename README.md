@@ -15,8 +15,8 @@
 -  [设计（可读）](https://github.com/satoteam/share/tree/master/%E8%AE%BE%E8%AE%A1)
 -  [测试]()
 -  [运维]()
--  [读书]()
--  [Other]()
+-  [读书](可下载的电子版书籍)(http://note.youdao.com/share/?id=d9d5aea6af27f896eeaeda481d3ec190&type=notebook#/)
+-  [Other]()
 
 请各位fork后能及时更新，以便获得更新如果不会git,还有一种可视化操作可以参照[本篇](http://www.cnblogs.com/rubylouvre/archive/2013/01/24/2874694.html)。
 
