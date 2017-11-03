@@ -33,6 +33,11 @@
 
 前期就把H5，CSS3好好学做个静态的，后面学习JavaScript。再后面学习各种框架做东西，技术继续精进学习性能，压缩，前端自动化等等知识
 
+## 重要知识点文章列表
+
+- [CSS绝对定位absolute详解](http://www.jianshu.com/p/a3da5e27d22b)  
+- [CSS浮动float详解](http://www.jianshu.com/p/07eb19957991)
+
 ## 上面是大概说了下，详细可以看下面👇这个
 
 [《我的职业是前端工程师》](http://ued.party/)
