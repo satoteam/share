@@ -2,7 +2,7 @@
 
 
 
-## 前端知识图谱：
+# 前端知识图谱：
 
 ![](https://github.com/airyland/Jsource/raw/master/skill.png)
 ![](https://github.com/airyland/Jsource/raw/master/skill02.jpg)
@@ -35,14 +35,14 @@
 
 --------
 
-## 详细学习路线和知识点
-### HTML5篇
+# 详细学习路线和知识点
+## HTML5篇
 - 掌握常用的标签（可以在MDN或者W3C这些网站，跟着敲一遍看看效果）
 - 着重学习表单，列表，布局
 - [掌握H5代码规范](http://codeguide.bootcss.com/) (持续学习，一开始就要注意因为良好的习惯要长期坚持才能完成)
 - 实战案列：跟随[Google创造你的第一个网站案列](http://wf.uisdc.com/cn/getting-started/your-first-multi-screen-site/)。  
 
-### CSS篇    
+## CSS篇    
 - 所有CSS相关的可以敲一遍了解这些东西
 
 - 着重掌握盒模型，margin，padding，属性选择器概念
@@ -59,11 +59,11 @@
 
 - 上面自己用所学知识和GoogleWeb调试工具模仿写小案列，比如登录页等静态   
 
-###  Bootstrap篇
+##  Bootstrap篇
 
 - 在熟练掌握上面CSS知识后，Bootstrap只是简化流程化你的网页开发工作，很简单到时用到哪个控件找相关使用方法就行。
 
-### JavaScript初级
+## JavaScript初级
 
 掌握JS初级语法再看下面,关于语法知识点前期看廖雪峰的JS或者W3CSchool，菜鸟教程均可，同时有人制作了[《JavaScript 闯关记》](https://github.com/stone0090/javascript-lessons)下面的知识点学习根据此篇而来，学完一部分就闯个关，对于新手会更好
 
@@ -80,14 +80,14 @@
 - 基本包装类型
 - 单体内置对象
 
-### 响应式设计
+## 响应式设计
 知识点待解锁！！！
 
-### jQuery入门
+## jQuery入门
 
 知识点待解锁！！！
 
-### JavaScript中级
+## JavaScript中级
 
 掌握JS初级语法继续完成下面的中级闯关,关于语法知识点前期看廖雪峰的JS或者W3CSchool，菜鸟教程均可，同时有人制作了[《JavaScript 闯关记》](https://github.com/stone0090/javascript-lessons)下面的知识点学习根据此篇而来，学完一部分就闯个关，对于新手会更好
 
@@ -99,51 +99,55 @@
 - 原型及原型链
 - 垃圾回收和内存管理
 
-### 正则表达式
+## 正则表达式
 
 知识点待解锁！！！
 
 
-### 网站性能/浏览器性能优化
+## 网站性能/浏览器性能优化
 
 - Udacity前端入门课程中的性能优化课程
 - [Yahoo军规](http://www.imooc.com/learn/50)
 
-### AJAX入门
+## AJAX入门
 
 知识点待解锁！！！
 
-### ECMAScript 6
+## ECMAScript 6
 
 知识点待解锁！！！
 
-### 前端打包工具学习
+## 前端打包工具学习
 
 知识点待解锁！！！
 
-### JavaScript设计模式
+## JavaScript设计模式
 
 知识点待解锁！！！
 
-### JavaScript测试
+## JavaScript测试
 
 知识点待解锁！！！
 
 -----------------------
 
-### VueJS
+## VueJS
 
 知识点待解锁！！！
 
 -------------
 
-### 数据库
+## 数据库
 
 知识点待解锁！！！
 
-### NodeJS
+## NodeJS
 
 知识点待解锁！！！
+
+## 终极面试
+
+- [面试知识点](http://hawx1993.github.io/Front-end-Interview-Questions/#/?id=interview-quesetions)
 
 ------
 ## 一些开源的总结资料
