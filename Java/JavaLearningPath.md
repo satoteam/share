@@ -44,7 +44,12 @@
 ## IO##
 
 * [JavaIO:操作系统的IO处理过程以及五种网络IO模型](https://github.com/pzxwhc/MineKnowContainer/issues/22)(这篇文章我没怎么看懂，先罗列上来)
+
 * [java常见IO流](https://github.com/pzxwhc/MineKnowContainer/issues/23)
+
+* [AIO、BIO、NIO](http://blog.csdn.net/anxpp/article/details/51512200)
+
+  ​
 
 ---
 
@@ -52,7 +57,8 @@
 
 * [Java多线程](https://github.com/pzxwhc/MineKnowContainer/issues/6)
 * [Java多线程编程实例](https://www.cnblogs.com/luxiaoxun/p/3870265.html)
-* （预留）
+* JUC
+* 并发包
 
 ----
 
@@ -60,11 +66,10 @@
 
 #### Spring####
 
-* [AOP](https://github.com/pzxwhc/MineKnowContainer/issues/28)
-* [依赖注入(DI)与控制反转(IOC)](https://github.com/pzxwhc/MineKnowContainer/issues/30)
+* [AOP](https://github.com/pzxwhc/MineKnowContainer/issues/28)(核心)
+* [依赖注入(DI)与控制反转(IOC)](https://github.com/pzxwhc/MineKnowContainer/issues/30)(核心)
 * [异常统一处理的三种方式与Rest接口异常的处理](https://github.com/pzxwhc/MineKnowContainer/issues/29)
 
 #### SpringMVC####
 
 * [Servlet体系结构与ServletContext,ServlectConfig](https://github.com/pzxwhc/MineKnowContainer/issues/32)
-
