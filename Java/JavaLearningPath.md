@@ -1,4 +1,4 @@
-#Java
+#Java 
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-##*java基础*##
+##*java基础*   ##
 
 * 关键字
 * 标识符
@@ -18,22 +18,20 @@
 * 反射（反射原理网上文档很多，不截取了）
 
 
-
 ------
 
 
 
-##*Jvm*##
+##*Jvm*   ##
 
 * [Java 详解 JVM 工作原理和流程](http://www.cnblogs.com/lishun1005/p/6019678.html)
 * [java中JVM的原理](http://blog.csdn.net/witsmakemen/article/details/28600127/)
 * [JVM监控工具](http://blog.csdn.net/wisgood/article/details/25343845)
 
 
-
 -----
 
-##*集合*##
+##*集合*    ##
 
 * [Collection和Map系列](https://github.com/pzxwhc/MineKnowContainer/issues/75)
 * [Java集合](https://github.com/pzxwhc/MineKnowContainer/issues/18)
@@ -41,7 +39,7 @@
 
 ---
 
-## IO##
+## IO   ##
 
 * [JavaIO:操作系统的IO处理过程以及五种网络IO模型](https://github.com/pzxwhc/MineKnowContainer/issues/22)(这篇文章我没怎么看懂，先罗列上来)
 
@@ -53,7 +51,7 @@
 
 ---
 
-##**线程**##
+##**线程 **   ##
 
 * [Java多线程](https://github.com/pzxwhc/MineKnowContainer/issues/6)
 * [Java多线程编程实例](https://www.cnblogs.com/luxiaoxun/p/3870265.html)
@@ -62,14 +60,14 @@
 
 ----
 
-## 框架##
+## 框架    ##
 
-#### Spring####
+#### Spring   ####
 
 * [AOP](https://github.com/pzxwhc/MineKnowContainer/issues/28)(核心)
 * [依赖注入(DI)与控制反转(IOC)](https://github.com/pzxwhc/MineKnowContainer/issues/30)(核心)
 * [异常统一处理的三种方式与Rest接口异常的处理](https://github.com/pzxwhc/MineKnowContainer/issues/29)
 
-#### SpringMVC####
+#### SpringMVC   ####
 
 * [Servlet体系结构与ServletContext,ServlectConfig](https://github.com/pzxwhc/MineKnowContainer/issues/32)
